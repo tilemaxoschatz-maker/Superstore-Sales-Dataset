@@ -77,5 +77,13 @@ The following data cleaning steps were performed:
 ---
 
 ## Project Outcome
+Author
 
+Tilemachos Chatzivasileiou
+
+Mathematics Graduate | Aspiring Data Analyst
+
+GitHub: https://github.com/tilemaxoschatz-maker
+
+LinkedIn:https://www.linkedin.com/in/tilemachos-chatzivasileiou-1777ba400/
 The analysis successfully identified key sales drivers, customer behavior patterns, regional opportunities, and seasonal trends. The findings provide practical recommendations that can help improve business performance and support strategic decision-making.
