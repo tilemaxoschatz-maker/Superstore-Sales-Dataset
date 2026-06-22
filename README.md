@@ -77,6 +77,9 @@ The following data cleaning steps were performed:
 ---
 
 ## Project Outcome
+
+The analysis successfully identified key sales drivers, customer behavior patterns, regional opportunities, and seasonal trends. The findings provide practical recommendations that can help improve business performance and support strategic decision-making.
+
 Author
 
 Tilemachos Chatzivasileiou
